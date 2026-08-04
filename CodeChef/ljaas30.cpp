@@ -1,5 +1,5 @@
 // LJAAS30 [Medium]
 // https://www.codechef.com/problems/ljaas30/
 
-        System.out.println("Celsius-25.5");
+        System.out.println("Celsius");
 
