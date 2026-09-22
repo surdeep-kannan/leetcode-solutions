@@ -8,9 +8,7 @@ class GFG {
         Scanner sc = new Scanner(System.in);
         int n = sc.nextInt();
         int result=sum(n);
-        // code here
         System.out.print(result);
-        
     }
     public static int sum(int n){
         if(n==0){
