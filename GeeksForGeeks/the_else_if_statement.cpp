@@ -1,5 +1,5 @@
 // The Else If Statement [Medium]
 // https://www.geeksforgeeks.org/problems/the-else-if-statement/
 
-            System.out.println("Number");
+            System.out.print("Number");
 
