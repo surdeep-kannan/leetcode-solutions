@@ -11,7 +11,7 @@ class Solution {
         }
 
         boolean[] visited = new boolean[n];
-        Deque<Integer> q = new ArrayDeque<>();
+        Queue<Integer> q = new ArrayDeque<>();
         q.add(source);
         visited[source] = true;
 
